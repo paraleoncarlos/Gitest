@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Hello Worldssdafasdfsadfasdfd
-=======
 Hello Worlds
 Goodluck
->>>>>>> 7060026e2cc59b87453ef3f77df0f6e0a9ae37ff
